@@ -1,4 +1,0 @@
-wally
-=====
-
-Where's Wally
